@@ -1,0 +1,10 @@
+# Project Ignores #
+
+# Maven/IDE
+.idea/
+target/
+.DS_Store
+*.iml
+
+#Compiled files
+*.class
