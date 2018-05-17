@@ -1,4 +1,4 @@
-package com.projects.oop.abstracts;
+package com.projects.oop.abstractPractice;
 
 public abstract class Animal {
     int nomOfLegs = 4;

@@ -1,4 +1,4 @@
-package com.projects.oop.interfaces;
+package com.projects.oop.interfacePractice;
 
 class Main {
     public static void main(String[] args){

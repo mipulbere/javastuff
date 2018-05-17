@@ -1,4 +1,4 @@
-package com.projects.oop.interfaces;
+package com.projects.oop.interfacePractice;
 
 interface Radio {
     void turnOnRadio();

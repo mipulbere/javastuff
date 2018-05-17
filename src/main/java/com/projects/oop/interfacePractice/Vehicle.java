@@ -1,4 +1,4 @@
-package com.projects.oop.interfaces;
+package com.projects.oop.interfacePractice;
 
 interface Vehicle {
     //all variables and methods are public even if they aren't specified as being public

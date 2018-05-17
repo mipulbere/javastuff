@@ -1,4 +1,4 @@
-package com.projects.oop.interfaces;
+package com.projects.oop.interfacePractice;
 
 public class Audi implements Vehicle, Radio {
     public void drive(){

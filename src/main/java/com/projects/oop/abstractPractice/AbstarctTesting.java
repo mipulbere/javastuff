@@ -1,4 +1,4 @@
-package com.projects.oop.abstracts;
+package com.projects.oop.abstractPractice;
 
 class AbstarctTesting {
     public static void main(String[] args){
