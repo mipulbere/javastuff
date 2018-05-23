@@ -33,7 +33,5 @@ public class SingletonTest {
         assertTrue(instanceTwo.equals(diffInstanceOne));
         assertFalse( diffInstanceOne == instanceTwo);
 
-
-
     }
 }
